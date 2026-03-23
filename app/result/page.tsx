@@ -37,7 +37,6 @@ export default function ResultPage() {
   return (
     <main className="mx-auto max-w-3xl px-4 py-12">
       <h1 className="mb-6 text-2xl font-bold">마케팅 전략 진단</h1>
-
       <ResultCard data={data} />
     </main>
   );
